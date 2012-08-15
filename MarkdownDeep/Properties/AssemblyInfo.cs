@@ -33,4 +33,4 @@ using System.Runtime.InteropServices;
 // by using the '*' as shown below:
 // [assembly: AssemblyVersion("1.0.*")]
 [assembly: AssemblyVersion("1.1.*")]
-[assembly: InternalsVisibleTo("MarkdownDeepTests")]
+[assembly: InternalsVisibleTo("MarkdownDeepTests, PublicKey=0024000004800000940000000602000000240000525341310004000001000100fb8be11a61ec14278887836e15a1248f615d9e5432d9e1d20a09a306efbf79bdc7593675a560f36b789976ba3e8458f7fbbd0d3a973cddf42bf019343a06622d69184dc67c4d98d5bc6c54761e1d1f2bd3288564fcb1d0004fcd3f347a265e6f24cfd0ce485ecc2ed8b3113248f3ae105b35b1abd2053d86d3d6810b668caa8c")]
